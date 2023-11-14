@@ -1,0 +1,76 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Data Cleaning"
+  url: "/CleanedData/"
+  side: left
+  dropdown:
+  - title: "Data Cleaning Issues"
+    url: "/CleanedData/Issues/"
+  - title: "Data Outliers"
+    url: "/CleanedData/Outliers/"
+  - title: "Data Spikes"
+    url: "/CleanedData/Spikes/"
+  - title: "Data Cleaned"
+    url: "/CleanedData/Cleaned/"
+
+- title: "Data Validation"
+  url: "/ValidatedData/"
+  side: left
+  dropdown:
+  - title: "Test Run 3"
+    url: "/ValidatedData/R03/"
+  - title: "Test Run 4"
+    url: "/ValidatedData/R04/"
+  - title: "Test Run 5"
+    url: "/ValidatedData/R05/"
+  - title: "Test Run 6"
+    url: "/ValidatedData/R06/"
+  - title: "Test Run 7"
+    url: "/ValidatedData/R07/"
+  - title: "Test Run 8"
+    url: "/ValidatedData/R08/"
+  - title: "Test Run 9"
+    url: "/ValidatedData/R09/"
+  - title: "Test Run 10"
+    url: "/ValidatedData/R10/"
+
+- title: "Data Analysis"
+  url: "/AnalysedData/"
+  side: left
+  dropdown:
+  - title: "Test Run 3"
+    url: "/AnalysedData/R03/"
+  - title: "Test Run 4"
+    url: "/AnalysedData/R04/"
+  - title: "Test Run 5"
+    url: "/AnalysedData/R05/"
+  - title: "Test Run 6"
+    url: "/AnalysedData/R06/"
+  - title: "Test Run 7"
+    url: "/AnalysedData/R07/"
+  - title: "Test Run 8"
+    url: "/AnalysedData/R08/"
+  - title: "Test Run 9"
+    url: "/AnalysedData/R09/"
+  - title: "Test Run 10"
+    url: "/AnalysedData/R10/"
+                
+
+- title: Videos
+  url: "/Videos/"
+  side: left
+
+- title: Changelog
+  url: "/changelog.html"
+  side: left
+
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

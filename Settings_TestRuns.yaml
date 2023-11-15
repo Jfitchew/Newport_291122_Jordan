@@ -3,7 +3,7 @@ Jordan:  # Riders Name
     Desc: 'Baseline'
     ValidLaps: [3,4,5,6,7,8,9,10,11]
   R04:  
-    Desc: 'Baseline'
+    Desc: 'Baseline 2'
     ValidLaps: [3,4,5,6,7,8,9]
   R05:  
     Desc: 'Rod'

@@ -1,16 +1,18 @@
-# Rider Settings
-RIDER_WEIGHT: 79
+# Rider Settings  Jordan on Trinity bike
+RIDER_WEIGHT: 79  
 
 # Bike settings
 BIKE_WEIGHT: 11.1     # without rod+discs
 ROD_DISC_WEIGHT: 0.3  # ??
+
 CRR: 0.0025           # check what BR have set this too for their data processing
 BIKE_DTL: 4.0         # % loss to drive train 
+AH_CF: 1.22           # Aerohead Rider Compensation Factor or Correction Factor
 
 # Wheel settings usually refer to the front wheel where the speed sensor is positioned 
-WHEEL_CIRC_ACTUAL: 2096
-WHEEL_CIRC_BR_SETTING: 2096  
-REAR_WHEEL_CIRC: 2100   # needed for determining speeds from cadence and crank angle delta
+WHEEL_CIRC_ACTUAL: 2105
+WHEEL_CIRC_BR_SETTING: 2105  # two datasets provided for 2096mm and 2105mm, latter is correct looking at lap distances and air speed data
+REAR_WHEEL_CIRC: 2109   # Video analysis showed rear wheel is 4mm bigger than front wheel
 CHAINRING: 50.0         # could change!
 SPROCKET: 15            # NOT actually using fixed value as it may change between (and in!) test runs! (see code under Add MORE FIELDS where sprocket is calculated)
 

@@ -1,10 +1,8 @@
-Various plots and data tables to help Validate data for all Test Runs  
-### Data Issues  
+Various plots and data tables to show results of Data Cleaning for all Test Runs  
+### Data Cleaning Findings 
 - [Missing Data Records](MissingDataRecs.html)  
+- [Global Vs Public field discrepancies](GlobalVsPublic_Fields.html)  
 - [Speed Quantisation](SpeedFromOdoCount.html)  
-- [Speed derivation options](OdoRevTime_Speed.html)  
-- [Speed from Crank Angle](SpeedFromCrankAngle.html)  
-
 #### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" style="float:right;width:225px;height:250px;" />
 - [Summary of Data Outliers](DataPeaks.html) 
 - [AirSpeed-Peaks](AirSpeed-Peaks.html)

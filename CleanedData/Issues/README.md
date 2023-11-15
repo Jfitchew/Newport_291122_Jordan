@@ -1,9 +1,7 @@
-### Data Issues  
+### Data Cleaning Findings  
 - [Missing Data Records](..\MissingDataRecs.html)  
+- [Global Vs Public field discrepancies](..\GlobalVsPublic_Fields.html)  
 - [Speed Quantisation](..\SpeedFromOdoCount.html)  
-- [Speed derivation options](..\OdoRevTime_Speed.html)  
-- [Speed from Crank Angle](..\SpeedFromCrankAngle.html)  
-
 - [Summary of Data Outliers](..\DataPeaks.html) 
 - [Summary of Data Spikes](..\DataSpikes.html) 
 - [Big Data Spike sample](..\BigDataSpikes.html) 
